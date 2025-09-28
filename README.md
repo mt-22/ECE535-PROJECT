@@ -6,10 +6,10 @@ Current baby monitors typically have limited functionality when it comes to aler
 Using Visual Language Models we can analyze both image/video and audio of the baby to output precise information about what the baby is doing in a quick and easy to digest fashion, for example a line 
 of text sent to the parents' phone as a notificaiton. 
 ### *Design Goals / Deliverables*
-<inc>Design Goals</inc>
+<ins>Design Goals</ins>
 * Classify the video and audio inputs with a high degree of accuracy (e.g. 95%+).
 
-<inc>Deliverables</inc>
+<ins>Deliverables</ins>
 
 * Implement a basic VLM pipeline to analyze baby images or frames (e.g., detect whether the baby is awake, asleep, crying).
 * Generate natural language summaries of detected activity (e.g., “The baby appears to be sleeping”) Optional: Add an alerting mechanism (e.g., simple rule that prints warning/sounds alarm if baby is crying).
