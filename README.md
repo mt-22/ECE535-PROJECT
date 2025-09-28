@@ -40,7 +40,7 @@ Python, Computer with CUDA Capability, And/Or Github Codespaces
 ### *Member Responsibilities*
 
 ### *Timeline*
-* October Check In: Wrap up research and planning for our approach, aim to have started the data pipeline and pre-processing
+* October Check In: Wrap up research and planning for our approach, aim to have started the data pipeline, pre-processing, and fine-tuning.
 * November Check In: Complete data pipeline, pre-processsing and fine-tuning of models
 * December Check In: Complete Aggregation, summary Generation and Alerting/Reporting
 ### *References*
