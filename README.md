@@ -40,7 +40,9 @@ Python, Computer with CUDA Capability, And/Or Github Codespaces
 ### *Member Responsibilities*
 
 ### *Timeline*
-
+* October Check In: Wrap up research and planning for our approach, aim to have started the data pipeline and pre-processing
+* November Check In: Complete data pipeline, pre-processsing and fine-tuning of models
+* December Check In: Complete Aggregation, summary Generation and Alerting/Reporting
 ### *References*
 
 Li, Chunyuan. "Large Multimodal Models: Notes on CVPR 2023 Tutorial." arXiv:2306.14895, 2023.
