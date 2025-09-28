@@ -16,6 +16,6 @@ Python, Computer with CUDA Capability, And/Or Github Codespaces
 
 ### *References*
 
-
+Li, Chunyuan. "Large Multimodal Models: Notes on CVPR 2023 Tutorial." arXiv:2306.14895, 2023.
 
 
