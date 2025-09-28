@@ -33,11 +33,25 @@ Use the list of features to generate a high level summary of the current state o
 - We could potentially instruct the model to provide both a high level summary of the scene, and a final classification of the state of the baby within the scene.
 
 <ins>Alerting / Reporting</ins><br>
-Based on the feature list and final classification of the scene, we can create a simple script that will send an alert if certain conditions are met (e.g. alert if the baby is coughing, choking, etc.)
+Based on the feature list and final classification of the scene, we can create a simple script that will send an alert if certain conditions are met (e.g. alert if the baby is coughing, choking, etc).
 
 ### *Requirements*
 Python, Computer with CUDA Capability, And/Or Github Codespaces
 ### *Member Responsibilities*
+<ins>Marshall Taylor</ins><br>
+- Fine-Tuning Lead
+- Configure and fine-tune the models such that they provide a formatted output.
+- Curate the dataset required to teach the models their specific task.
+- Test the accuracy and reliability of the feature extraction for all modalities. 
+<ins>Ivan Li</ins><br>
+- Research / Writing Lead
+- Refine the prompts for the final reasoning stage.
+- Perform research on SoTA prompting and multi-modal feature aggregation teqniques.
+- Manage project documentation.
+<ins>Rivan Juthani</ins><br>
+- Data Pipeline Lead
+- Write the preprocessing scripts that format all incoming data.
+- Implement the alerting script that provides notifications based on the systems final classification.
 
 ### *Timeline*
 * October Check In: Wrap up research and planning for our approach, aim to have started the data pipeline, pre-processing, and fine-tuning.
