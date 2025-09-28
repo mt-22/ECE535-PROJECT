@@ -32,12 +32,14 @@ Based on the feature list and final classification of the scene, we can create a
 - Fine-Tuning Lead
 - Configure and fine-tune the models such that they provide a formatted output.
 - Curate the dataset required to teach the models their specific task.
-- Test the accuracy and reliability of the feature extraction for all modalities. 
+- Test the accuracy and reliability of the feature extraction for all modalities.
+<br>
 <ins>Ivan Li</ins><br>
 - Research / Writing Lead
 - Refine the prompts for the final reasoning stage.
 - Perform research on SoTA prompting and multi-modal feature aggregation teqniques.
 - Manage project documentation.
+<br>
 <ins>Rivan Juthani</ins><br>
 - Data Pipeline Lead
 - Write the preprocessing scripts that format all incoming data.
