@@ -53,6 +53,7 @@ Python, Computer with CUDA Capability, And/Or Github Codespaces
 <ins>Rivan Juthani</ins>
 - Data Pipeline Lead
 - Write the preprocessing scripts that format all incoming data.
+- Implement the data pipeline that supplies data from a live audio/video feed and/or load it from a dataset.
 - Implement the alerting script that provides notifications based on the systems final classification.
 
 ### *Timeline*
