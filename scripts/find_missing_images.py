@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 a script to find missing images by comparing images in a folder with entries in a JSON file.
 creates a new JSON file containing the missing entries.
