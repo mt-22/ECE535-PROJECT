@@ -1,0 +1,28 @@
+ID: synth_00022
+Prompt: angled from baby monitor camera of a tears streaming Hispanic toddler baby diaper only in a bassinet, distressed, nighttime with nightlight, mobile hanging above.
+Label: awake/crying
+Reason: All 3 attempts failed due to error: Message: 
+Stacktrace:
+0   undetected_chromedriver             0x0000000100cad108 undetected_chromedriver + 6119688
+1   undetected_chromedriver             0x0000000100ca480a undetected_chromedriver + 6084618
+2   undetected_chromedriver             0x00000001007401a6 undetected_chromedriver + 430502
+3   undetected_chromedriver             0x00000001007928a1 undetected_chromedriver + 768161
+4   undetected_chromedriver             0x0000000100792b61 undetected_chromedriver + 768865
+5   undetected_chromedriver             0x00000001007e3034 undetected_chromedriver + 1097780
+6   undetected_chromedriver             0x00000001007b8e2d undetected_chromedriver + 925229
+7   undetected_chromedriver             0x00000001007e0378 undetected_chromedriver + 1086328
+8   undetected_chromedriver             0x00000001007b8bd3 undetected_chromedriver + 924627
+9   undetected_chromedriver             0x0000000100784c0b undetected_chromedriver + 711691
+10  undetected_chromedriver             0x00000001007858d1 undetected_chromedriver + 714961
+11  undetected_chromedriver             0x0000000100c6a5d0 undetected_chromedriver + 5846480
+12  undetected_chromedriver             0x0000000100c6e865 undetected_chromedriver + 5863525
+13  undetected_chromedriver             0x0000000100c45da7 undetected_chromedriver + 5696935
+14  undetected_chromedriver             0x0000000100c6f2ff undetected_chromedriver + 5866239
+15  undetected_chromedriver             0x0000000100c35204 undetected_chromedriver + 5628420
+16  undetected_chromedriver             0x0000000100c91828 undetected_chromedriver + 6006824
+17  undetected_chromedriver             0x0000000100c919ed undetected_chromedriver + 6007277
+18  undetected_chromedriver             0x0000000100ca43e1 undetected_chromedriver + 6083553
+19  libsystem_pthread.dylib             0x00007ff80dffee59 _pthread_start + 115
+20  libsystem_pthread.dylib             0x00007ff80dffa857 thread_start + 15
+
+--------------------------------------------------
