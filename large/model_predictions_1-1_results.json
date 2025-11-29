@@ -1,0 +1,4143 @@
+{
+  "total_matches": 480,
+  "accuracy": {
+    "baby_present": 0.8458333333333333,
+    "crying": 0.99375,
+    "sleeping": 0.8416666666666667
+  },
+  "incorrect_predictions": {
+    "baby_present": [
+      {
+        "id": "synth_00419",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00440",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00457",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00420",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00455",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00371",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00376",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00427",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00437",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00425",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00395",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00368",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00388",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00412",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00414",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00475",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00362",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00417",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00466",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00449",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00379",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00472",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00435",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00465",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00463",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00387",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00462",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00382",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00430",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00424",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00446",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00441",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00391",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00372",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00415",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00477",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00408",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00456",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00384",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00423",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00401",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00416",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00478",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00361",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00433",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00404",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00409",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00438",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00369",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00452",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00402",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00389",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00432",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00374",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00454",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00410",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00473",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00460",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00445",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00413",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00479",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00444",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00363",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00406",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00396",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00377",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00443",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00476",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00405",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00431",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00407",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00428",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00453",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00380",
+        "expected": false,
+        "predicted": true
+      }
+    ],
+    "crying": [
+      {
+        "id": "synth_00031",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00240",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00088",
+        "expected": false,
+        "predicted": true
+      }
+    ],
+    "sleeping": [
+      {
+        "id": "synth_00027",
+        "expected": true,
+        "predicted": false
+      },
+      {
+        "id": "synth_00419",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00225",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00440",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00420",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00156",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00371",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00071",
+        "expected": true,
+        "predicted": false
+      },
+      {
+        "id": "synth_00376",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00086",
+        "expected": true,
+        "predicted": false
+      },
+      {
+        "id": "synth_00215",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00136",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00040",
+        "expected": true,
+        "predicted": false
+      },
+      {
+        "id": "synth_00094",
+        "expected": true,
+        "predicted": false
+      },
+      {
+        "id": "synth_00437",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00395",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00368",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00070",
+        "expected": true,
+        "predicted": false
+      },
+      {
+        "id": "synth_00388",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00079",
+        "expected": true,
+        "predicted": false
+      },
+      {
+        "id": "synth_00060",
+        "expected": true,
+        "predicted": false
+      },
+      {
+        "id": "synth_00414",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00475",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00151",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00362",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00417",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00449",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00379",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00033",
+        "expected": true,
+        "predicted": false
+      },
+      {
+        "id": "synth_00069",
+        "expected": true,
+        "predicted": false
+      },
+      {
+        "id": "synth_00465",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00113",
+        "expected": true,
+        "predicted": false
+      },
+      {
+        "id": "synth_00221",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00171",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00463",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00462",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00062",
+        "expected": true,
+        "predicted": false
+      },
+      {
+        "id": "synth_00430",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00011",
+        "expected": true,
+        "predicted": false
+      },
+      {
+        "id": "synth_00424",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00114",
+        "expected": true,
+        "predicted": false
+      },
+      {
+        "id": "synth_00441",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00038",
+        "expected": true,
+        "predicted": false
+      },
+      {
+        "id": "synth_00197",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00391",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00084",
+        "expected": true,
+        "predicted": false
+      },
+      {
+        "id": "synth_00372",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00018",
+        "expected": true,
+        "predicted": false
+      },
+      {
+        "id": "synth_00477",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00456",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00088",
+        "expected": true,
+        "predicted": false
+      },
+      {
+        "id": "synth_00423",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00478",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00111",
+        "expected": true,
+        "predicted": false
+      },
+      {
+        "id": "synth_00361",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00100",
+        "expected": true,
+        "predicted": false
+      },
+      {
+        "id": "synth_00162",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00073",
+        "expected": true,
+        "predicted": false
+      },
+      {
+        "id": "synth_00230",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00194",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00078",
+        "expected": true,
+        "predicted": false
+      },
+      {
+        "id": "synth_00190",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00025",
+        "expected": true,
+        "predicted": false
+      },
+      {
+        "id": "synth_00214",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00104",
+        "expected": true,
+        "predicted": false
+      },
+      {
+        "id": "synth_00454",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00460",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00010",
+        "expected": true,
+        "predicted": false
+      },
+      {
+        "id": "synth_00175",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00445",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00413",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00479",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00396",
+        "expected": false,
+        "predicted": true
+      },
+      {
+        "id": "synth_00081",
+        "expected": true,
+        "predicted": false
+      },
+      {
+        "id": "synth_00061",
+        "expected": true,
+        "predicted": false
+      },
+      {
+        "id": "synth_00059",
+        "expected": true,
+        "predicted": false
+      }
+    ]
+  },
+  "severity_stats": [
+    {
+      "id": "synth_00222",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00355",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00191",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00182",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00469",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": false
+    },
+    {
+      "id": "synth_00027",
+      "expected_label": "asleep",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00115",
+      "expected_label": "asleep",
+      "predicted_severity": 5,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00142",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00047",
+      "expected_label": "asleep",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00267",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00206",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00054",
+      "expected_label": "asleep",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00056",
+      "expected_label": "asleep",
+      "predicted_severity": 5,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00249",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00001",
+      "expected_label": "asleep",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00149",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 5,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00399",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": false
+    },
+    {
+      "id": "synth_00419",
+      "expected_label": "not-present",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00039",
+      "expected_label": "asleep",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00225",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00198",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00247",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00204",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00349",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00252",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00107",
+      "expected_label": "asleep",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00257",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00043",
+      "expected_label": "asleep",
+      "predicted_severity": 5,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00013",
+      "expected_label": "asleep",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00357",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00282",
+      "expected_label": "awake/crying",
+      "predicted_severity": 7,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00220",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00348",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00440",
+      "expected_label": "not-present",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00233",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00447",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": false
+    },
+    {
+      "id": "synth_00457",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00420",
+      "expected_label": "not-present",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00167",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00287",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00455",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00312",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00156",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 5,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00371",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00183",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00071",
+      "expected_label": "asleep",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00376",
+      "expected_label": "not-present",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00031",
+      "expected_label": "asleep",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00086",
+      "expected_label": "asleep",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00215",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00052",
+      "expected_label": "asleep",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00231",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00232",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00286",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00272",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00299",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00210",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00354",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00172",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00136",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00118",
+      "expected_label": "asleep",
+      "predicted_severity": 5,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00426",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": false
+    },
+    {
+      "id": "synth_00427",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00040",
+      "expected_label": "asleep",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00184",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00094",
+      "expected_label": "asleep",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00177",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00097",
+      "expected_label": "asleep",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00216",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00437",
+      "expected_label": "not-present",
+      "predicted_severity": 5,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00425",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00108",
+      "expected_label": "asleep",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00277",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00044",
+      "expected_label": "asleep",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00255",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00254",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00395",
+      "expected_label": "not-present",
+      "predicted_severity": 5,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00375",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": false
+    },
+    {
+      "id": "synth_00368",
+      "expected_label": "not-present",
+      "predicted_severity": 5,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00250",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00022",
+      "expected_label": "asleep",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00041",
+      "expected_label": "asleep",
+      "predicted_severity": 5,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00070",
+      "expected_label": "asleep",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00158",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00117",
+      "expected_label": "asleep",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00261",
+      "expected_label": "awake/crying",
+      "predicted_severity": 7,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00119",
+      "expected_label": "asleep",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00398",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": false
+    },
+    {
+      "id": "synth_00085",
+      "expected_label": "asleep",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00002",
+      "expected_label": "asleep",
+      "predicted_severity": 5,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00388",
+      "expected_label": "not-present",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00212",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00316",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00276",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00193",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00458",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": false
+    },
+    {
+      "id": "synth_00079",
+      "expected_label": "asleep",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00439",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": false
+    },
+    {
+      "id": "synth_00308",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00060",
+      "expected_label": "asleep",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00412",
+      "expected_label": "not-present",
+      "predicted_severity": 5,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00228",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00253",
+      "expected_label": "awake/crying",
+      "predicted_severity": 3,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00055",
+      "expected_label": "asleep",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00332",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00024",
+      "expected_label": "asleep",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00326",
+      "expected_label": "awake/crying",
+      "predicted_severity": 7,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00414",
+      "expected_label": "not-present",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00475",
+      "expected_label": "not-present",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00143",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00151",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00362",
+      "expected_label": "not-present",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00195",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00226",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00168",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00429",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": false
+    },
+    {
+      "id": "synth_00392",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": false
+    },
+    {
+      "id": "synth_00417",
+      "expected_label": "not-present",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00364",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": false
+    },
+    {
+      "id": "synth_00466",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00132",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00077",
+      "expected_label": "asleep",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00280",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00449",
+      "expected_label": "not-present",
+      "predicted_severity": 5,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00451",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": false
+    },
+    {
+      "id": "synth_00235",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00080",
+      "expected_label": "asleep",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00379",
+      "expected_label": "not-present",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00236",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00049",
+      "expected_label": "asleep",
+      "predicted_severity": 5,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00179",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00033",
+      "expected_label": "asleep",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00418",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": false
+    },
+    {
+      "id": "synth_00470",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": false
+    },
+    {
+      "id": "synth_00127",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00306",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00472",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00344",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00351",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00181",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00089",
+      "expected_label": "asleep",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00069",
+      "expected_label": "asleep",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00174",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00126",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00336",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00036",
+      "expected_label": "asleep",
+      "predicted_severity": 5,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00435",
+      "expected_label": "not-present",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00304",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00465",
+      "expected_label": "not-present",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00265",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00281",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00335",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00291",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00015",
+      "expected_label": "asleep",
+      "predicted_severity": 5,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00259",
+      "expected_label": "awake/crying",
+      "predicted_severity": 7,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00159",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00263",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00133",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00251",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00065",
+      "expected_label": "asleep",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00138",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00113",
+      "expected_label": "asleep",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00271",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00121",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00221",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00186",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00171",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00463",
+      "expected_label": "not-present",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00387",
+      "expected_label": "not-present",
+      "predicted_severity": 5,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00340",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00307",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00390",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": false
+    },
+    {
+      "id": "synth_00296",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00269",
+      "expected_label": "awake/crying",
+      "predicted_severity": 7,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00283",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00385",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": false
+    },
+    {
+      "id": "synth_00023",
+      "expected_label": "asleep",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00028",
+      "expected_label": "asleep",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00459",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": false
+    },
+    {
+      "id": "synth_00164",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00048",
+      "expected_label": "asleep",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00343",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00046",
+      "expected_label": "asleep",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00462",
+      "expected_label": "not-present",
+      "predicted_severity": 5,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00201",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00268",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00422",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": false
+    },
+    {
+      "id": "synth_00480",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": false
+    },
+    {
+      "id": "synth_00244",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00030",
+      "expected_label": "asleep",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00331",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00157",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00411",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": false
+    },
+    {
+      "id": "synth_00302",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00382",
+      "expected_label": "not-present",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00003",
+      "expected_label": "asleep",
+      "predicted_severity": 5,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00062",
+      "expected_label": "asleep",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00430",
+      "expected_label": "not-present",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00011",
+      "expected_label": "asleep",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00246",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00289",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00106",
+      "expected_label": "asleep",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00350",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00029",
+      "expected_label": "asleep",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00146",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00424",
+      "expected_label": "not-present",
+      "predicted_severity": 5,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00446",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00114",
+      "expected_label": "asleep",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00098",
+      "expected_label": "asleep",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00161",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00441",
+      "expected_label": "not-present",
+      "predicted_severity": 5,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00122",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00223",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00068",
+      "expected_label": "asleep",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00260",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00095",
+      "expected_label": "asleep",
+      "predicted_severity": 5,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00087",
+      "expected_label": "asleep",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00360",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00248",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00189",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00217",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00021",
+      "expected_label": "asleep",
+      "predicted_severity": 5,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00474",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": false
+    },
+    {
+      "id": "synth_00203",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00436",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": false
+    },
+    {
+      "id": "synth_00353",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00038",
+      "expected_label": "asleep",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00471",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": false
+    },
+    {
+      "id": "synth_00180",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00219",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00240",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00197",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 1,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00063",
+      "expected_label": "asleep",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00391",
+      "expected_label": "not-present",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00229",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00403",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": false
+    },
+    {
+      "id": "synth_00058",
+      "expected_label": "asleep",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00066",
+      "expected_label": "asleep",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00358",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00084",
+      "expected_label": "asleep",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00372",
+      "expected_label": "not-present",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00297",
+      "expected_label": "awake/crying",
+      "predicted_severity": 8,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00322",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00076",
+      "expected_label": "asleep",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00381",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": false
+    },
+    {
+      "id": "synth_00415",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00292",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00018",
+      "expected_label": "asleep",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00477",
+      "expected_label": "not-present",
+      "predicted_severity": 5,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00309",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00408",
+      "expected_label": "not-present",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00456",
+      "expected_label": "not-present",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00124",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00083",
+      "expected_label": "asleep",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00173",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00464",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": false
+    },
+    {
+      "id": "synth_00384",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00338",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00099",
+      "expected_label": "asleep",
+      "predicted_severity": 5,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00109",
+      "expected_label": "asleep",
+      "predicted_severity": 5,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00303",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00141",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00238",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00356",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00270",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00004",
+      "expected_label": "asleep",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00026",
+      "expected_label": "asleep",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00328",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00088",
+      "expected_label": "asleep",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00373",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": false
+    },
+    {
+      "id": "synth_00017",
+      "expected_label": "asleep",
+      "predicted_severity": 5,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00239",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00423",
+      "expected_label": "not-present",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00401",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00144",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00032",
+      "expected_label": "asleep",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00264",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00284",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00075",
+      "expected_label": "asleep",
+      "predicted_severity": 5,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00300",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00416",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00092",
+      "expected_label": "asleep",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00165",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00020",
+      "expected_label": "asleep",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00478",
+      "expected_label": "not-present",
+      "predicted_severity": 5,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00196",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00262",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00176",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00258",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00285",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00019",
+      "expected_label": "asleep",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00111",
+      "expected_label": "asleep",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00361",
+      "expected_label": "not-present",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00320",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00450",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": false
+    },
+    {
+      "id": "synth_00294",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00339",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00278",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00279",
+      "expected_label": "awake/crying",
+      "predicted_severity": 3,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00148",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00370",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": false
+    },
+    {
+      "id": "synth_00169",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00383",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": false
+    },
+    {
+      "id": "synth_00433",
+      "expected_label": "not-present",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00100",
+      "expected_label": "asleep",
+      "predicted_severity": 5,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00162",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00313",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00057",
+      "expected_label": "asleep",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00404",
+      "expected_label": "not-present",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00434",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": false
+    },
+    {
+      "id": "synth_00315",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00310",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00008",
+      "expected_label": "asleep",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00234",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00352",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00346",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00073",
+      "expected_label": "asleep",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00150",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00230",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00409",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00163",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 5,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00178",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00116",
+      "expected_label": "asleep",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00273",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00438",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00319",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00194",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00139",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00105",
+      "expected_label": "asleep",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00200",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00369",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00140",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00311",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00170",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00035",
+      "expected_label": "asleep",
+      "predicted_severity": 5,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00452",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00072",
+      "expected_label": "asleep",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00078",
+      "expected_label": "asleep",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00402",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00448",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": false
+    },
+    {
+      "id": "synth_00218",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00101",
+      "expected_label": "asleep",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00137",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00112",
+      "expected_label": "asleep",
+      "predicted_severity": 5,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00342",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00064",
+      "expected_label": "asleep",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00199",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00397",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": false
+    },
+    {
+      "id": "synth_00211",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00389",
+      "expected_label": "not-present",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00190",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00051",
+      "expected_label": "asleep",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00421",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": false
+    },
+    {
+      "id": "synth_00082",
+      "expected_label": "asleep",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00432",
+      "expected_label": "not-present",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00213",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00160",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00325",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00025",
+      "expected_label": "asleep",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00214",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00359",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00104",
+      "expected_label": "asleep",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00374",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00016",
+      "expected_label": "asleep",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00454",
+      "expected_label": "not-present",
+      "predicted_severity": 5,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00120",
+      "expected_label": "asleep",
+      "predicted_severity": 5,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00468",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": false
+    },
+    {
+      "id": "synth_00123",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00153",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00266",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00256",
+      "expected_label": "awake/crying",
+      "predicted_severity": 3,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00145",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00205",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00237",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00091",
+      "expected_label": "asleep",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00202",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00042",
+      "expected_label": "asleep",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00130",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00410",
+      "expected_label": "not-present",
+      "predicted_severity": 5,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00317",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00473",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00460",
+      "expected_label": "not-present",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00209",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00188",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00208",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00321",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00345",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00053",
+      "expected_label": "asleep",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00290",
+      "expected_label": "awake/crying",
+      "predicted_severity": 3,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00006",
+      "expected_label": "asleep",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00074",
+      "expected_label": "asleep",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00010",
+      "expected_label": "asleep",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00152",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00134",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00318",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00341",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00175",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 5,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00400",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": false
+    },
+    {
+      "id": "synth_00445",
+      "expected_label": "not-present",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00314",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00413",
+      "expected_label": "not-present",
+      "predicted_severity": 5,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00479",
+      "expected_label": "not-present",
+      "predicted_severity": 5,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00207",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00467",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": false
+    },
+    {
+      "id": "synth_00323",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00007",
+      "expected_label": "asleep",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00330",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00093",
+      "expected_label": "asleep",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00444",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00131",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00245",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00147",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00363",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00347",
+      "expected_label": "awake/crying",
+      "predicted_severity": 3,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00406",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00185",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00396",
+      "expected_label": "not-present",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00298",
+      "expected_label": "awake/crying",
+      "predicted_severity": 7,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00103",
+      "expected_label": "asleep",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00365",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": false
+    },
+    {
+      "id": "synth_00128",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00377",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00386",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": false
+    },
+    {
+      "id": "synth_00005",
+      "expected_label": "asleep",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00241",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00243",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00443",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00166",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00110",
+      "expected_label": "asleep",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00129",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00037",
+      "expected_label": "asleep",
+      "predicted_severity": 5,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00394",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": false
+    },
+    {
+      "id": "synth_00327",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00034",
+      "expected_label": "asleep",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00367",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": false
+    },
+    {
+      "id": "synth_00476",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00014",
+      "expected_label": "asleep",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00378",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": false
+    },
+    {
+      "id": "synth_00224",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00192",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00324",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00293",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00012",
+      "expected_label": "asleep",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00405",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00431",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00090",
+      "expected_label": "asleep",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00050",
+      "expected_label": "asleep",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00334",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00329",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00337",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00301",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00009",
+      "expected_label": "asleep",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00366",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": false
+    },
+    {
+      "id": "synth_00125",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00081",
+      "expected_label": "asleep",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00407",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00154",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00274",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00428",
+      "expected_label": "not-present",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00453",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00155",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00067",
+      "expected_label": "asleep",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00061",
+      "expected_label": "asleep",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00242",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00187",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00275",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00059",
+      "expected_label": "asleep",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00442",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": false
+    },
+    {
+      "id": "synth_00096",
+      "expected_label": "asleep",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00461",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": false
+    },
+    {
+      "id": "synth_00333",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00305",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00227",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00135",
+      "expected_label": "awake/peaceful",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00102",
+      "expected_label": "asleep",
+      "predicted_severity": 3,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00295",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00393",
+      "expected_label": "not-present",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": false
+    },
+    {
+      "id": "synth_00380",
+      "expected_label": "not-present",
+      "predicted_severity": 5,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00045",
+      "expected_label": "asleep",
+      "predicted_severity": 0,
+      "predicted_crying": false,
+      "predicted_baby_present": true
+    },
+    {
+      "id": "synth_00288",
+      "expected_label": "awake/crying",
+      "predicted_severity": 5,
+      "predicted_crying": true,
+      "predicted_baby_present": true
+    }
+  ]
+}

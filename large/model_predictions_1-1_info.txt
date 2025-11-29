@@ -16,9 +16,6 @@ Crying Detection:
 Sleeping Detection:
   Correct: 404/480 (84.17%)
 
-Notification Accuracy:
-  Correct: 0/480 (0.00%)
-
 Severity Statistics:
   Average predicted severity: 2.32
   Standard deviation: 2.28
@@ -34,19 +31,19 @@ Baby Present Error Analysis:
   False alarms (no baby detected as present) (false positives): 74/74 (100.00%)
 
 Incorrect Baby Present Predictions (showing first 5):
-  synth_00384: Expected No Baby, Got Baby Present
-  synth_00391: Expected No Baby, Got Baby Present
-  synth_00423: Expected No Baby, Got Baby Present
-  synth_00380: Expected No Baby, Got Baby Present
-  synth_00409: Expected No Baby, Got Baby Present
+  synth_00419: Expected No Baby, Got Baby Present
+  synth_00440: Expected No Baby, Got Baby Present
+  synth_00457: Expected No Baby, Got Baby Present
+  synth_00420: Expected No Baby, Got Baby Present
+  synth_00455: Expected No Baby, Got Baby Present
 
 Crying Error Analysis:
   Missed actual crying (false negatives): 0/3 (0.00%)
   False alarms - peaceful/quiet detected as crying (false positives): 3/3 (100.00%)
 
 Incorrect Crying Predictions (showing first 5):
-  synth_00240: Expected Not Crying, Got Crying
   synth_00031: Expected Not Crying, Got Crying
+  synth_00240: Expected Not Crying, Got Crying
   synth_00088: Expected Not Crying, Got Crying
 
 Sleeping Error Analysis:
@@ -54,11 +51,11 @@ Sleeping Error Analysis:
   False alarms - awake detected as sleeping (false positives): 48/76 (63.16%)
 
 Incorrect Sleeping Predictions (showing first 5):
-  synth_00194: Expected Awake, Got Sleeping
-  synth_00060: Expected Sleeping, Got Awake
-  synth_00025: Expected Sleeping, Got Awake
-  synth_00391: Expected Awake, Got Sleeping
-  synth_00423: Expected Awake, Got Sleeping
+  synth_00027: Expected Sleeping, Got Awake
+  synth_00419: Expected Awake, Got Sleeping
+  synth_00225: Expected Awake, Got Sleeping
+  synth_00440: Expected Awake, Got Sleeping
+  synth_00420: Expected Awake, Got Sleeping
 
 Detailed analysis complete. Processed 480 matching entries.
 Results saved to comparison_results.json

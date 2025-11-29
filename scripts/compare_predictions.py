@@ -76,13 +76,11 @@ def compare_predictions(large_json_path, predictions_json_path):
     baby_present_correct = 0
     crying_correct = 0
     sleeping_correct = 0
-    notification_correct = 0
     severity_matches = []
 
     incorrect_baby_present = []
     incorrect_crying = []
     incorrect_sleeping = []
-    incorrect_notifications = []
 
     for key in matching_keys:
         large_item = large_map[key]
@@ -139,9 +137,6 @@ def compare_predictions(large_json_path, predictions_json_path):
 
     print(f"\nSleeping Detection:")
     print(f"  Correct: {sleeping_correct}/{total_matches} ({sleeping_correct/total_matches*100:.2f}%)")
-
-    print(f"\nNotification Accuracy:")
-    print(f"  Correct: {notification_correct}/{total_matches} ({notification_correct/total_matches*100:.2f}%)")
 
     severity_values = [item['predicted_severity'] for item in severity_matches]
 
@@ -217,13 +212,11 @@ def compare_predictions(large_json_path, predictions_json_path):
             'baby_present': baby_present_correct / total_matches,
             'crying': crying_correct / total_matches,
             'sleeping': sleeping_correct / total_matches,
-            'notification': notification_correct / total_matches
         },
         'incorrect_predictions': {
             'baby_present': incorrect_baby_present,
             'crying': incorrect_crying,
             'sleeping': incorrect_sleeping,
-            'notification': incorrect_notifications
         },
         'severity_stats': severity_matches
     }
