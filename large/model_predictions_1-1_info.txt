@@ -1,0 +1,64 @@
+Comparing model predictions against ground truth...
+Ground truth file: large/large.json
+Predictions file: large/model_predictions_1-1.json
+Found 480 matching entries out of 480 in large.json and 480 in predictions
+
+============================================================
+COMPARISON SUMMARY
+============================================================
+
+Baby Present Detection:
+  Correct: 406/480 (84.58%)
+
+Crying Detection:
+  Correct: 477/480 (99.38%)
+
+Sleeping Detection:
+  Correct: 404/480 (84.17%)
+
+Notification Accuracy:
+  Correct: 0/480 (0.00%)
+
+Severity Statistics:
+  Average predicted severity: 2.32
+  Standard deviation: 2.28
+  Quartiles: Q1=0.00, Median=3.00, Q3=5.00
+  Range: 0.00 - 8.00
+
+Hazard Detection:
+  Total hazards detected: 71
+  Images with hazards: 46
+
+Baby Present Error Analysis:
+  Missed actual babies (false negatives): 0/74 (0.00%)
+  False alarms (no baby detected as present) (false positives): 74/74 (100.00%)
+
+Incorrect Baby Present Predictions (showing first 5):
+  synth_00384: Expected No Baby, Got Baby Present
+  synth_00391: Expected No Baby, Got Baby Present
+  synth_00423: Expected No Baby, Got Baby Present
+  synth_00380: Expected No Baby, Got Baby Present
+  synth_00409: Expected No Baby, Got Baby Present
+
+Crying Error Analysis:
+  Missed actual crying (false negatives): 0/3 (0.00%)
+  False alarms - peaceful/quiet detected as crying (false positives): 3/3 (100.00%)
+
+Incorrect Crying Predictions (showing first 5):
+  synth_00240: Expected Not Crying, Got Crying
+  synth_00031: Expected Not Crying, Got Crying
+  synth_00088: Expected Not Crying, Got Crying
+
+Sleeping Error Analysis:
+  Missed actual sleeping (false negatives): 28/76 (36.84%)
+  False alarms - awake detected as sleeping (false positives): 48/76 (63.16%)
+
+Incorrect Sleeping Predictions (showing first 5):
+  synth_00194: Expected Awake, Got Sleeping
+  synth_00060: Expected Sleeping, Got Awake
+  synth_00025: Expected Sleeping, Got Awake
+  synth_00391: Expected Awake, Got Sleeping
+  synth_00423: Expected Awake, Got Sleeping
+
+Detailed analysis complete. Processed 480 matching entries.
+Results saved to comparison_results.json
