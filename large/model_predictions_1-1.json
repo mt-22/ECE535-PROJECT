@@ -1,0 +1,1922 @@
+[
+  {
+    "filename": "synth_00425.png",
+    "prediction": "{\n\"description\": \"A teddy bear is sitting in a crib next to a blanket. A star is shining above the crib.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00455.png",
+    "prediction": "{\n\"description\": \"A baby crib with two stuffed animals and a moon light on the wall.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00417.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib with a moon light on the wall above the crib.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00445.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib with a white sheet and a blanket. The crib is white and has a picture frame on the wall above it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00319.png",
+    "prediction": "{\n\"description\": \"A baby is crying in a crib. The baby is wearing a blue and white outfit. A teddy bear is also in the crib with the baby.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00365.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a white sheet. The crib is empty and the baby is not visible.\",\n\"baby\\_present\": false,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00025.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a pacifier in its mouth.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00212.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib, smiling at the camera.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00095.png",
+    "prediction": "{\n\"description\": \"A baby sleeping in a crib with a teddy bear beside them.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00293.png",
+    "prediction": "{\n\"description\": \"A baby crying in a crib\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00206.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a toy airplane hanging above it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00205.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a teddy bear next to them. They are smiling and appear to be happy.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00472.png",
+    "prediction": "{\n\"description\": \"A white crib with a teddy bear sitting in it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00279.png",
+    "prediction": "{\n\"description\": \"A baby is crying in a crib. The baby is laying down and appears to be in a safe environment.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00231.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a stuffed animal and a teddy bear. The baby is smiling and appears to be happy.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00221.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a stuffed animal and a rattle. The baby is laying on its stomach and appears to be sleeping.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00158.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a mobile above it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00165.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a mobile above it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00386.png",
+    "prediction": "{\n\"description\": \"A teddy bear is sitting in a crib next to a white sheet. The crib is white and has a white sheet on it. The teddy bear is sitting on the bed. The room is dark.\",\n\"baby\\_present\": false,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00018.png",
+    "prediction": "{\n\"description\": \"A baby is laying down in a crib, sucking his thumb. The crib is surrounded by a mesh-like structure.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00287.png",
+    "prediction": "{\n\"description\": \"A baby crying in a crib\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00005.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib. The baby is wrapped in a blanket and is laying on its back.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00217.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a yellow sheet. The baby is smiling and appears to be happy.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00335.png",
+    "prediction": "{\n\"description\": \"A baby is crying in a crib with a red background and a pink sheet. The baby is wearing a blue outfit and there are stars on the sheet. There are two toys in the crib, one on the left side and the other on the right side. The baby is facing the camera and appears to be in a safe environment.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00215.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a teddy bear beside him. The baby is sleeping and appears to be safe.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00015.png",
+    "prediction": "{\n\"description\": \"A baby sleeping in a crib with a teddy bear beside it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00246.png",
+    "prediction": "{\n\"description\": \"A baby crying in a crib with a teddy bear beside it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00145.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib, wearing a yellow and white outfit. The baby is looking up at the camera.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00479.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib with a yellow and black blanket on it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00424.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a white crib with a white sheet and a white blanket. The crib is white and has a white lamp hanging over it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00302.png",
+    "prediction": "{\n\"description\": \"A baby crying in a crib\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00471.png",
+    "prediction": "{\n\"description\": \"A teddy bear is sitting in a crib next to a white sheet. The crib is empty and the bear is the only object in the crib.\",\n\"baby\\_present\": false,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00400.png",
+    "prediction": "{\n\"description\": \"A white crib with a white sheet and a white teddy bear on it. The crib is empty and the room is dark.\",\n\"baby\\_present\": false,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00153.png",
+    "prediction": "{\n\"description\": \"A baby lying in a crib with a teddy bear beside it.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00031.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib, possibly sleeping or crying.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": true,\n\"sleeping\": true,\n\"severity\": 5,\n\"hazards\": [\n\"object not in crib\"\n],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00114.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a moon and stars mobile hanging above it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00007.png",
+    "prediction": "{\n\"description\": \"A baby is lying in a crib with a brown wooden crib and a brown teddy bear sitting on the crib. The baby is sleeping and appears to be safe.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00053.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib with a red glow. The baby is laying on its back.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00461.png",
+    "prediction": "{\n\"description\": \"A baby crib with a stuffed animal and a star on the bed. The crib is white and has a window. The stuffed animal is a teddy bear. The baby is not in the crib.\",\n\"baby\\_present\": false,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00285.png",
+    "prediction": "{\n\"description\": \"A baby crying in a crib with stuffed animals around it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [\"crying\", \"crying loudly\"],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00214.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a pacifier in its mouth. The baby is facing up and appears to be sleeping.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00240.png",
+    "prediction": "{\n\"description\": \"A baby is crying in a crib. The baby is wearing a blue and white striped outfit and is sitting up in the crib.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00244.png",
+    "prediction": "{\n\"description\": \"A baby crying in a crib with a 24C light above it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00379.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib with a clock on the wall above it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00127.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a moon lamp shining on the wall above the baby. The baby is smiling and appears to be happy.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00069.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a pacifier in his mouth.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00232.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a yellow light shining on the wall above them.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00204.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib, smiling and looking at the camera.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00470.png",
+    "prediction": "{\n\"description\": \"A baby crib with a white sheet and a white blanket. The crib is empty and the light is on.\",\n\"baby\\_present\": false,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00393.png",
+    "prediction": "{\n\"description\": \"A crib with a stuffed animal and a clock on the wall above it.\",\n\"baby\\_present\": false,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00168.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a stuffed animal on the bed. The baby is looking up at the camera.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00084.png",
+    "prediction": "{\n\"description\": \"A baby laying in a crib with a teddy bear next to them.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00122.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a moon shaped light above it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00094.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a mobile above it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00422.png",
+    "prediction": "{\n\"description\": \"A teddy bear is laying on a white sheet in a crib. The crib is white and has a black frame. The bear is laying on its side, facing the camera.\",\n\"baby\\_present\": false,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00073.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib, looking at the camera.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00427.png",
+    "prediction": "{\n\"description\": \"A baby is in a crib with a white sheet. The crib is placed in front of a window. The time is 09:30 AM.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00419.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib with a white sheet and a star mobile hanging above it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00441.png",
+    "prediction": "{\n\"description\": \"A baby is in a crib with a white sheet and a yellow lamp. The lamp is turned on and shining brightly on the baby. The baby is laying down and appears to be sleeping.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00219.png",
+    "prediction": "{\n\"description\": \"A baby is sitting in a crib with a white sheet. The baby is looking up at the camera.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00017.png",
+    "prediction": "{\n\"description\": \"A baby sleeping in a crib with a moon and stars mobile hanging above.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00146.png",
+    "prediction": "{\n\"description\": \"A baby sitting in a crib with a teddy bear beside him.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00196.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a white sheet. The baby is smiling and appears to be happy.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00439.png",
+    "prediction": "{\n\"description\": \"A brown teddy bear sitting in a white crib.\",\n\"baby\\_present\": false,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00408.png",
+    "prediction": "{\n\"description\": \"A crib with a stuffed animal and a ball on it. The stuffed animal is on its back and the ball is on the right side of the crib.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 3,\n\"hazards\": [\"stuffed animal on its back\"],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00241.png",
+    "prediction": "{\n\"description\": \"A baby sitting on a crib mattress crying. A teddy bear is next to him.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [\"crying\", \"crying loudly\"],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00199.png",
+    "prediction": "{\n\"description\": \"A baby sitting in a crib with a mobile above him.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00107.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib with a teddy bear beside it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00348.png",
+    "prediction": "{\n\"description\": \"A baby is crying in a crib. The baby is lying on its stomach and has a stuffed animal next to it.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [\"crying\", \"lying on stomach\"],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00355.png",
+    "prediction": "{\n\"description\": \"A baby crying in a crib with a teddy bear beside it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00372.png",
+    "prediction": "{\n\"description\": \"A teddy bear is sitting in a crib next to a baby. The baby is laying on its back and appears to be sleeping.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00227.png",
+    "prediction": "{\n\"description\": \"A baby sitting in a crib with a brown teddy bear next to it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00130.png",
+    "prediction": "{\n\"description\": \"A baby sitting in a crib with a white sheet and a lamp shining on him.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00449.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib with a green glow. The crib is white and has a green glow. The baby is laying on its back. The crib is empty and the baby is not in any danger.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00211.png",
+    "prediction": "{\n\"description\": \"A baby sitting in a crib with a brown teddy bear next to it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00395.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib with a yellow and blue blanket on it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00380.png",
+    "prediction": "{\n\"description\": \"A baby is laying on a bed in a nursery. The bed is unmade and the baby is not sleeping.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00342.png",
+    "prediction": "{\n\"description\": \"A baby is crying in a crib. The baby is wrapped in a blanket and is laying on its stomach.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [\"crying baby\"],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00045.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib with stuffed animals around it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00189.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a teddy bear next to it.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00304.png",
+    "prediction": "{\n\"description\": \"A baby crying in a crib\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00357.png",
+    "prediction": "{\n\"description\": \"A baby is crying in a crib at night. The baby is sitting on the floor of the crib.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [\"crying\", \"crying loudly\"],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00383.png",
+    "prediction": "{\n\"description\": \"A teddy bear is sitting in a crib with a white sheet and a light on above it.\",\n\"baby\\_present\": false,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00072.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib with a stuffed animal and a toy. The baby is lying on its back.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00171.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib. The baby is laying on its stomach and appears to be sleeping.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00474.png",
+    "prediction": "{\n\"description\": \"A baby crib with a teddy bear and a stuffed animal on the bed. The crib is empty and the light is on.\",\n\"baby\\_present\": false,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00234.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a white sheet. The baby is smiling and appears to be happy.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00108.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib, wrapped in a blanket.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00124.png",
+    "prediction": "{\n\"description\": \"A baby sitting in a crib looking at a mobile with elephants and monkeys on it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00416.png",
+    "prediction": "{\n\"description\": \"A crib with a white sheet and a baby laying on its back. The baby is not crying and is not in any immediate danger.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00220.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib, looking up at the camera.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00194.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a teddy bear next to him. The baby is laying on his stomach and appears to be sleeping.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00229.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a teddy bear next to him. He is smiling and appears to be happy.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00305.png",
+    "prediction": "{\n\"description\": \"A baby is crying in a crib under a light.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00294.png",
+    "prediction": "{\n\"description\": \"A baby in a crib with a stuffed animal and a star. The baby is crying and has a blue outfit on.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00177.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib, smiling and looking at the camera.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00019.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib with a stuffed animal and a star decoration. The baby is wrapped in a blanket and is laying on its back.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00238.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a pacifier in its mouth.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00289.png",
+    "prediction": "{\n\"description\": \"A baby is crying in a crib. The baby is wearing a blue shirt and has a toy in the crib with them.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00230.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a teddy bear beside them. The baby is laying on their stomach and appears to be sleeping.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00055.png",
+    "prediction": "{\n\"description\": \"A baby is in a crib with a mobile hanging above it. The baby is laying on its back and appears to be sleeping.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00332.png",
+    "prediction": "{\n\"description\": \"A baby is crying in a crib. The baby is wearing a blue outfit and has a red ribbon in its hair.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00311.png",
+    "prediction": "{\n\"description\": \"A baby crying in a crib with two stuffed animals beside him.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [\"crying\", \"crying loudly\"],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00182.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a red background. The baby is looking up at the camera.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00456.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib with a white sheet and a blanket. The crib is next to a wall and there is a light on in the room.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00076.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib with a pacifier in his mouth.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00398.png",
+    "prediction": "{\n\"description\": \"A brown teddy bear is sitting on a white sheet in a crib. The crib is empty and the bear is the only object in the crib.\",\n\"baby\\_present\": false,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00361.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib. The crib is brown and has a white sheet on it. The baby is laying on its back.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00239.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib. The baby is wearing a blue outfit and has a blue star on it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00087.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib with a white sheet and a mobile hanging above it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00092.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib with a white sheet and a mobile hanging above it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00037.png",
+    "prediction": "{\n\"description\": \"A baby sleeping in a crib.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00318.png",
+    "prediction": "{\n\"description\": \"A baby crying in a crib with a stuffed animal and a toy.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00180.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a smile on his face. There are stuffed animals and a toy duck around him.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00067.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib with a white sheet and a mobile above it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00151.png",
+    "prediction": "{\n\"description\": \"A baby laying in a crib with a teddy bear next to them.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00358.png",
+    "prediction": "{\n\"description\": \"A baby crying in a crib.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00027.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a red light above it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00266.png",
+    "prediction": "{\n\"description\": \"A baby is crying in a crib. The baby is laying on its back and appears to be in a safe environment.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00164.png",
+    "prediction": "{\n\"description\": \"A baby sitting in a crib with a white sheet and a yellow stuffed animal on the right side of the crib.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00344.png",
+    "prediction": "{\n\"description\": \"A baby crying in a crib with a star mobile hanging above it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [\n\"The baby is crying, which might indicate discomfort or hunger.\",\n\"The baby is in a crib, which is a safe place for the baby to rest.\",\n],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00403.png",
+    "prediction": "{\n\"description\": \"A baby crib with a mobile hanging from the ceiling. The crib is empty and the mobile is hanging over the bed. The crib is white and has a white sheet on it.\",\n\"baby\\_present\": false,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00113.png",
+    "prediction": "{\n\"description\": \"A baby lying on its back in a crib with a blue outfit on.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00016.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a white sheet. The baby is looking up and appears to be sleeping.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00397.png",
+    "prediction": "{\n\"description\": \"A white sheet is covering a wooden baby crib. The crib is empty and has a wicker design. The sheet is folded over the crib, giving it a neat appearance.\",\n\"baby\\_present\": false,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00296.png",
+    "prediction": "{\n\"description\": \"A baby is crying in a crib with a mobile above it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00188.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a blue outfit on.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00388.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib. The crib is white and has a yellow frame. The baby is covered with a white sheet. The room is dark, and there is a lamp on the nightstand. The baby is not in any immediate danger.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00226.png",
+    "prediction": "{\n\"description\": \"A baby laying in a crib with a blue and yellow star on the mattress.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00303.png",
+    "prediction": "{\n\"description\": \"A baby is crying in a crib with stuffed animals around it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [\"crying\", \"crying loudly\"],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00328.png",
+    "prediction": "{\n\"description\": \"A baby sitting in a crib crying\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00160.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib, smiling and looking at the camera.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00414.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a pink sheet. The baby is laying on its back and appears to be sleeping.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00034.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib with a stuffed animal and a rubber duck. The baby is laying on its back and appears to be in a safe position.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00115.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib with a teddy bear next to him.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00265.png",
+    "prediction": "{\n\"description\": \"A baby is crying in a crib. The baby is laying on its back and has a pacifier in its mouth.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [\"pacifier in mouth\"],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00237.png",
+    "prediction": "{\n\"description\": \"A baby is sitting in a crib with a blue blanket on.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00163.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a toy hanging above it.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [\n\"The baby is laying face down, which is not the safest position for a baby.\",\n],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00453.png",
+    "prediction": "{\n\"description\": \"A baby is in a crib with a plant and a light on the nightstand. The baby is laying down and there is a yellow rubber duck on the crib mattress.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00382.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a basket on top. There are two rubber ducks and a yellow rubber duck in the crib with the baby. The baby is laying on its back.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 3,\n\"hazards\": [\"rubber ducks in crib\"],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00190.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a wicker basket. The baby is facing down and appears to be sleeping.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00082.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib with a wicker basket. The baby is laying on its back and appears to be in a safe position.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00061.png",
+    "prediction": "{\n\"description\": \"A baby lying in a crib with its hands on its face.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00313.png",
+    "prediction": "{\n\"description\": \"A baby crying in a crib with a teddy bear beside it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00014.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib. The baby is laying on its stomach and appears to be in a safe position.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00259.png",
+    "prediction": "{\n\"description\": \"A baby is crying in a crib. The baby is laying on its back and appears to be in distress.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 7,\n\"hazards\": [\"crying\", \"face down\"],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00116.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib. The baby is lying on its stomach and appears to be safe.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00434.png",
+    "prediction": "{\n\"description\": \"A baby crib with a mobile hanging from the ceiling. The crib is empty and the mobile is casting a shadow on the wall. The room is dimly lit and the baby is not present in the crib.\",\n\"baby\\_present\": false,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00255.png",
+    "prediction": "{\n\"description\": \"A baby crying in a crib\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00260.png",
+    "prediction": "{\n\"description\": \"A baby is crying in a crib. The crib is white and the baby is wearing a white outfit. The baby is sitting in the crib and appears to be upset.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00443.png",
+    "prediction": "{\n\"description\": \"A crib with a white sheet and a baby monitor attached to the top of the crib. The monitor is showing the baby's position and is set to alert the parents if the baby is in danger.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00021.png",
+    "prediction": "{\n\"description\": \"A baby sleeping in a crib.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00080.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib with a teddy bear next to it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00438.png",
+    "prediction": "{\n\"description\": \"A baby in a crib with a teddy bear and a clock on the side.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00297.png",
+    "prediction": "{\n\"description\": \"A baby crying in a crib with a stuffed animal and a stuffed sheep. The baby is laying on its back and appears to be in distress.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 8,\n\"hazards\": [\"crying baby\"],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00264.png",
+    "prediction": "{\n\"description\": \"A baby crying in a crib\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00043.png",
+    "prediction": "{\n\"description\": \"A baby sleeping in a crib with stuffed animals around him.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00406.png",
+    "prediction": "{\n\"description\": \"A teddy bear is sitting in a crib with a white sheet and a red ribbon around its neck. The crib is white and has a wooden handle. The bear is facing the camera.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00459.png",
+    "prediction": "{\n\"description\": \"A white crib with a white sheet and a teddy bear sitting on it. The crib is empty and the sheet is rumpled.\",\n\"baby\\_present\": false,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00480.png",
+    "prediction": "{\n\"description\": \"A crib with a star light and two stuffed animals. The crib is empty and the light is on.\",\n\"baby\\_present\": false,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00012.png",
+    "prediction": "{\n\"description\": \"A baby sleeping in a crib with a teddy bear beside them.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00377.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a white sheet and a star mobile. The baby is laying on its back.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00432.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with two stuffed animals. The baby is not in any immediate danger.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00280.png",
+    "prediction": "{\n\"description\": \"A baby is crying in a crib with a white sheet and a blue blanket. The baby is lying on its back and has its mouth open wide, possibly yelling. The crib is surrounded by a wooden fence. The baby appears to be in a safe environment.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00118.png",
+    "prediction": "{\n\"description\": \"A baby sleeping in a crib with a stuffed giraffe next to him.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00257.png",
+    "prediction": "{\n\"description\": \"A baby crying in a crib\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00218.png",
+    "prediction": "{\n\"description\": \"A baby laying on his back in a crib with a teddy bear next to him.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00405.png",
+    "prediction": "{\n\"description\": \"A crib with a white sheet and a few stuffed animals on it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00466.png",
+    "prediction": "{\n\"description\": \"A baby crib with a light on it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00350.png",
+    "prediction": "{\n\"description\": \"A baby crying in a crib\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00193.png",
+    "prediction": "{\n\"description\": \"A baby is sitting in a crib with a white sheet. The baby is looking up and smiling.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00050.png",
+    "prediction": "{\n\"description\": \"A baby sleeping in a crib.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00360.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib, crying and laughing. The crib is surrounded by a wooden fence. The baby is laying on its back.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00477.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib with a yellow star hanging from the ceiling.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00317.png",
+    "prediction": "{\n\"description\": \"A baby is crying in a crib. The baby is laying down and has a pacifier in his mouth.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [\"pacifier in mouth\"],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00154.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a red background. The baby is looking up at the camera.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00433.png",
+    "prediction": "{\n\"description\": \"A teddy bear is sitting in a crib. The crib is pink and has a white sheet. The bear is facing down.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00271.png",
+    "prediction": "{\n\"description\": \"A baby crying in a crib\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00059.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a white canopy. The baby is looking up at the ceiling. The crib is white and has a mobile hanging above the baby.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00454.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib with a sheet and a star decoration on the bed. The crib is well-lit and has a star decoration on the bed. The baby is laying on its back and appears to be safe.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00402.png",
+    "prediction": "{\n\"description\": \"A crib with a white sheet and a baby monitor on top.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00156.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a moon and stars mobile hanging above it.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00376.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib with a teddy bear beside it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00178.png",
+    "prediction": "{\n\"description\": \"A baby wearing a blue and yellow bib is laying in a crib. The baby is smiling and appears to be happy.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00394.png",
+    "prediction": "{\n\"description\": \"A baby crib with a light on and a stuffed animal hanging from the crib. The crib is empty and the light is on.\",\n\"baby\\_present\": false,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00407.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a white blanket on it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00144.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a smile on his face. He is facing up and appears to be happy.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00197.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a smile on his face. He is not crying and appears to be in a safe environment.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 1,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00460.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib with a teddy bear next to it. The crib is lit up by a red light, giving the scene a warm and cozy atmosphere.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00192.png",
+    "prediction": "{\n\"description\": \"A baby sitting in a crib with stuffed animals around him.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00272.png",
+    "prediction": "{\n\"description\": \"A baby crying in a crib\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00032.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib. The baby is laying on its back and appears to be safe.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00183.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib, smiling at the camera.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00339.png",
+    "prediction": "{\n\"description\": \"A baby sitting in a crib and crying\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00090.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib. There are stuffed animals around the crib, and a light is on above the crib.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [\"stuffed animals around the crib\"],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00024.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib with a mobile above it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00111.png",
+    "prediction": "{\n\"description\": \"A baby sitting in a crib with a brown teddy bear next to him.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00064.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib with a teddy bear beside it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00033.png",
+    "prediction": "{\n\"description\": \"A baby laying on its stomach in a crib.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00274.png",
+    "prediction": "{\n\"description\": \"A baby is crying in a crib with a teddy bear next to it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00172.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a white sheet and a white lamp shade above it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00256.png",
+    "prediction": "{\n\"description\": \"A baby is crying in a crib. The baby is laying on its back and appears to be in a safe position.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00245.png",
+    "prediction": "{\n\"description\": \"A baby is crying in a crib. The baby is sitting up and has a red face.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00331.png",
+    "prediction": "{\n\"description\": \"A baby crying in a crib with a red background.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00462.png",
+    "prediction": "{\n\"description\": \"A teddy bear is sitting in a crib next to a baby. The baby is sleeping and the room is dimly lit.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00368.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a white sheet. The crib is made of wood and has a white sheet on it. The baby is laying on its back and appears to be sleeping.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00030.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00476.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a white sheet and a blanket. The crib is in a sunny room, and the baby is facing the window.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00105.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib with a blue and white sheet. The baby is wrapped up in a blanket and is laying on its back.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00169.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a teddy bear next to him.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00362.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib with a blue sheet and a yellow blanket. The crib is white and has a lamp shining above it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00209.png",
+    "prediction": "{\n\"description\": \"A baby sitting in a crib with a black background.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00091.png",
+    "prediction": "{\n\"description\": \"A baby is laying down in a crib with a white blanket. The baby is laying on its back and appears to be sleeping.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00254.png",
+    "prediction": "{\n\"description\": \"A baby is crying in a crib with a teddy bear next to it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00223.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a toy planetarium above him. He is smiling and appears to be happy.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00109.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib with a teddy bear beside it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00044.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib under a light.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00062.png",
+    "prediction": "{\n\"description\": \"A baby is sitting in a crib with a blue blanket on.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00270.png",
+    "prediction": "{\n\"description\": \"A baby sitting in a crib and crying\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00385.png",
+    "prediction": "{\n\"description\": \"Two stuffed animals are lying in a crib with a baby monitor. The monitor is not on.\",\n\"baby\\_present\": false,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00161.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a white blanket on it. The baby is smiling and appears to be happy.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00038.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a stuffed animal and a rubber duck. The baby is laying on its stomach and is not crying.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00315.png",
+    "prediction": "{\n\"description\": \"A baby crying in a crib with stuffed animals around it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [\"crying\", \"crying loudly\"],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00210.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a smile on his face. He is wearing a blue outfit and is surrounded by various toys.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [\"A crib with a mobile hanging above the baby\"],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00135.png",
+    "prediction": "{\n\"description\": \"A baby is smiling in a crib with a teddy bear and a star. The baby is laying on its back and appears to be happy.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00364.png",
+    "prediction": "{\n\"description\": \"A brown teddy bear is sitting in a crib next to a white sheet. The crib is empty and the light is on above the crib.\",\n\"baby\\_present\": false,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00420.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib with a white sheet and a white lamp hanging over it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00290.png",
+    "prediction": "{\n\"description\": \"A baby is crying in a crib. The baby is wearing a white bib and has its arms outstretched. The baby appears to be in a safe position in the crib.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00253.png",
+    "prediction": "{\n\"description\": \"A baby is crying in a crib. The baby is laying on its back and appears to be in a safe position.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00176.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a yellow outfit on. The baby is smiling and appears to be happy.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00336.png",
+    "prediction": "{\n\"description\": \"A baby is crying in a crib with a pink blanket and teddy bears around it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [\"crying\", \"crying loudly\"],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00262.png",
+    "prediction": "{\n\"description\": \"A baby is crying in a crib with a yellow pacifier and a stuffed animal.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [\"Crib with no safety rails\"],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00423.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a white sheet and a wicker basket. The baby is laying on its back and appears to be sleeping.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00198.png",
+    "prediction": "{\n\"description\": \"A baby is smiling and laying in a crib with a mobile above it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00447.png",
+    "prediction": "{\n\"description\": \"A baby crib with a mobile hanging from the ceiling. The crib is empty and the mobile is turned on.\",\n\"baby\\_present\": false,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00469.png",
+    "prediction": "{\n\"description\": \"A teddy bear is sitting on a white crib mattress. The crib is white and has a cloudy sky painted on the wall above it.\",\n\"baby\\_present\": false,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00431.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a blanket on it. The baby is laying on its back.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00273.png",
+    "prediction": "{\n\"description\": \"A baby crying in a crib.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00401.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a blanket on it. The baby is laying on its back.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00167.png",
+    "prediction": "{\n\"description\": \"A baby lying in a crib, looking up at the camera.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00413.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib with a camera on the wall above it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00236.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a teddy bear and a ball. The baby is smiling and appears to be happy.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00126.png",
+    "prediction": "{\n\"description\": \"A baby is smiling and laying in a crib with a blue sheet and a stuffed animal. The baby is facing up and appears to be happy.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00384.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a teddy bear beside it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00141.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a white sheet. The baby is smiling and appears to be happy.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00123.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with stuffed animals around him.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00278.png",
+    "prediction": "{\n\"description\": \"A baby is crying in a crib. The baby is wearing a blue and white outfit and is laying on its back.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00097.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib with a red glow surrounding it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00426.png",
+    "prediction": "{\n\"description\": \"A baby crib with a mobile hanging from the top. The crib is empty and the mobile is not on.\",\n\"baby\\_present\": false,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00370.png",
+    "prediction": "{\n\"description\": \"A teddy bear is laying on a white sheet in a crib. The crib is empty and the sheet is rumpled.\",\n\"baby\\_present\": false,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00464.png",
+    "prediction": "{\n\"description\": \"A teddy bear is sitting in a crib next to a white sheet. The crib is white and has a lamp on one side.\",\n\"baby\\_present\": false,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00013.png",
+    "prediction": "{\n\"description\": \"A baby is laying down in a crib. The baby is facing down and appears to be sleeping.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00444.png",
+    "prediction": "{\n\"description\": \"A crib with a baby monitor attached to the ceiling. The monitor is hanging from the ceiling and has a light on it. The crib is white and has a white sheet in it. There are three stuffed animals hanging from the monitor.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00263.png",
+    "prediction": "{\n\"description\": \"A baby is crying in a crib. The baby is wearing a bib and has a pacifier in his mouth.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00371.png",
+    "prediction": "{\n\"description\": \"A crib with a baby monitor attached to it. The baby is sleeping peacefully.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00148.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a blue outfit on.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00243.png",
+    "prediction": "{\n\"description\": \"A baby is crying in a crib with a lion, elephant, and cloud toy hanging above it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00363.png",
+    "prediction": "{\n\"description\": \"A baby crib with a mobile hanging from the ceiling. The mobile has a star and a cloud on it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00195.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib, looking up at the camera.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00448.png",
+    "prediction": "{\n\"description\": \"A crib with a blanket on it and a potted plant in the corner.\",\n\"baby\\_present\": false,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00004.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a white sheet. The baby is facing down and appears to be sleeping.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00077.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib with a red light on above it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00216.png",
+    "prediction": "{\n\"description\": \"A baby is sitting in a crib with a white sheet. The baby is smiling and appears to be happy.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00100.png",
+    "prediction": "{\n\"description\": \"A baby is laying down in a crib with a red light shining on it.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00142.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib, looking at the camera.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00088.png",
+    "prediction": "{\n\"description\": \"A baby crying in a crib\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00252.png",
+    "prediction": "{\n\"description\": \"A baby in a crib crying and holding his face up\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00066.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib with a white sheet and a mobile hanging above it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00166.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a red background. The baby is looking at the camera.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00458.png",
+    "prediction": "{\n\"description\": \"A crib with two stuffed animals and a star on the bed. The crib is white and has a black background.\",\n\"baby\\_present\": false,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00411.png",
+    "prediction": "{\n\"description\": \"A crib with a stuffed animal and a star on the mattress. The crib is empty and the stuffed animal is on the mattress.\",\n\"baby\\_present\": false,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00137.png",
+    "prediction": "{\n\"description\": \"A baby in a crib with a stuffed animal and a star on it's chest.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00295.png",
+    "prediction": "{\n\"description\": \"A baby crying in a crib with a white blanket and a mobile hanging above.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00112.png",
+    "prediction": "{\n\"description\": \"A baby sleeping in a crib with a mobile hanging above it.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00048.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a red background. The baby is laying on its back and appears to be sleeping.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00155.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a white sheet and a blue blanket. The baby is looking at the camera.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00442.png",
+    "prediction": "{\n\"description\": \"A baby crib with a blanket on it and a stuffed animal on the shelf above it.\",\n\"baby\\_present\": false,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00415.png",
+    "prediction": "{\n\"description\": \"A baby crib with a mobile hanging from the ceiling. The mobile has a star and a moon on it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00191.png",
+    "prediction": "{\n\"description\": \"A baby is sitting in a crib with a blue outfit on.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00006.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib with a white sheet and a wicker basket. The baby is laying on its back and has its hands in its mouth.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00250.png",
+    "prediction": "{\n\"description\": \"A baby crying in a crib with a teddy bear next to it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00213.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a wicker basket around it. The baby is looking at the camera.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00083.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib with a stuffed animal and a toy ball.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00334.png",
+    "prediction": "{\n\"description\": \"A baby is crying in a crib. The baby is wearing a blue outfit and has its hands up to its face.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00150.png",
+    "prediction": "{\n\"description\": \"A baby lying on its back in a crib with a white sheet and a yellow rubber duck on the right side of the crib.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00010.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a white sheet. The baby is looking at the camera.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00185.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a mobile above them.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00478.png",
+    "prediction": "{\n\"description\": \"A crib with a baby monitor and a light on top of it. There are two stuffed animals in the crib, one is a lion and the other is a monkey. The baby is sleeping in the crib.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00349.png",
+    "prediction": "{\n\"description\": \"A baby sitting in a crib crying\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00323.png",
+    "prediction": "{\n\"description\": \"A baby crying in a crib\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00343.png",
+    "prediction": "{\n\"description\": \"A baby is crying in a crib. The baby is wearing a blue outfit and is sitting up in the crib.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00373.png",
+    "prediction": "{\n\"description\": \"A baby crib with a mobile hanging from the ceiling. The crib is empty and the mobile is hanging above the crib.\",\n\"baby\\_present\": false,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00110.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a stuffed bunny and a star. The baby is laying on its back and appears to be sleeping.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00003.png",
+    "prediction": "{\n\"description\": \"A baby sleeping in a crib with a stuffed animal beside it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00117.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib. The baby is laying on its back and appears to be safe.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00354.png",
+    "prediction": "{\n\"description\": \"A baby is crying in a crib with a cloud mobile above it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00261.png",
+    "prediction": "{\n\"description\": \"A baby is crying in a crib with a blue sheet. The baby is laying on its back and appears to be in distress.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 7,\n\"hazards\": [\n\"Overheating\"\n],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00249.png",
+    "prediction": "{\n\"description\": \"A baby sitting in a crib crying\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00009.png",
+    "prediction": "{\n\"description\": \"A baby sleeping in a crib with a teddy bear beside them.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00242.png",
+    "prediction": "{\n\"description\": \"A baby sitting in a crib and crying\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00133.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a teddy bear next to it. The baby is smiling and appears to be happy.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00187.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib, smiling and looking at the camera.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00267.png",
+    "prediction": "{\n\"description\": \"A baby is crying in a crib. The baby is laying on its back and has a stuffed animal in the crib with them.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [\"crying\", \"face down\"],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00001.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib with a white sheet and a blue blanket. The baby is laying on its stomach and appears to be sleeping peacefully.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00085.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib. The baby is laying on its stomach and appears to be sleeping.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00269.png",
+    "prediction": "{\n\"description\": \"A baby sitting in a crib with a teddy bear next to him. He is crying and has his face down.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 7,\n\"hazards\": [\"crying\", \"face down\"],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00440.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib with a white sheet and a yellow star on it. The crib is white and has a yellow star on it. The baby is laying on its back and is not crying.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00390.png",
+    "prediction": "{\n\"description\": \"A white crib with a white sheet and a white blanket. The sheet is rumpled and the blanket is folded over the sheet.\",\n\"baby\\_present\": false,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00098.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a white sheet and a mobile above it. The baby is sleeping and appears to be safe.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00042.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib with a blue blanket and a yellow moon on it.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00320.png",
+    "prediction": "{\n\"description\": \"A baby is crying in a crib. The baby is wearing a white and blue blanket. The baby is laying on its back.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00341.png",
+    "prediction": "{\n\"description\": \"A baby is crying in a crib. The baby is wearing a blue outfit and has a teddy bear next to them.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00338.png",
+    "prediction": "{\n\"description\": \"A baby is crying in a crib. The baby is wearing a yellow and white outfit and has a tear on its face.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00147.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib and smiling at the camera.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00170.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a stuffed animal hanging above him.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00101.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib. The crib is made of wood and has a white sheet. The baby is lying on its stomach and is covered with a blanket. The room is dimly lit, and there is a light on the ceiling above the crib.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00054.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a pacifier in his mouth. The baby is facing down and appears to be sleeping.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00389.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a blanket on it. The baby is not facing up and is not crying.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00367.png",
+    "prediction": "{\n\"description\": \"A baby crib with a white sheet and a blue mattress. The crib is empty and the light is shining on it.\",\n\"baby\\_present\": false,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00436.png",
+    "prediction": "{\n\"description\": \"A baby crib with a white sheet and a white blanket. The crib is empty and the light is on.\",\n\"baby\\_present\": false,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00049.png",
+    "prediction": "{\n\"description\": \"A baby sleeping in a crib.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00075.png",
+    "prediction": "{\n\"description\": \"A baby sleeping in a crib with a stuffed animal and a duck toy.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 5,\n\"hazards\": [\"stuffed animal\", \"duck toy\"],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00412.png",
+    "prediction": "{\n\"description\": \"A teddy bear is sitting in a baby crib. The crib is blue and has a star pattern. The teddy bear is wearing a red bow. The room is dark, and there is a chair in the background.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00162.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a yellow sheet. The baby is facing up and appears to be sleeping.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00314.png",
+    "prediction": "{\n\"description\": \"A baby crying in a crib\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00063.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib with a mobile above it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00346.png",
+    "prediction": "{\n\"description\": \"A baby crying in a crib with a toy planetarium hanging above it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00298.png",
+    "prediction": "{\n\"description\": \"A baby is crying in a crib. The baby is laying on its back and appears to be in distress.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 7,\n\"hazards\": [\"crying\", \"face down\"],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00330.png",
+    "prediction": "{\n\"description\": \"A baby crying in a crib with a teddy bear and a lamp nearby.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [\"crying\", \"crying loudly\"],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00437.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib with a blue and yellow blanket on it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00463.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib. The crib is white and the baby is covered with a white sheet. The room is dark and the baby is facing down.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00277.png",
+    "prediction": "{\n\"description\": \"A baby crying in a crib\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00299.png",
+    "prediction": "{\n\"description\": \"A baby sitting in a crib with a teddy bear next to him. He is crying and has his arms outstretched.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00224.png",
+    "prediction": "{\n\"description\": \"A baby sitting in a crib with a teddy bear beside him.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00023.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib with a blue blanket on.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00140.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a toy hanging above it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00418.png",
+    "prediction": "{\n\"description\": \"A baby crib with a teddy bear and stars on it. The crib is empty and the room is dark.\",\n\"baby\\_present\": false,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00035.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib with a white sheet and a blue blanket. The crib is white and has a star mobile hanging above it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00446.png",
+    "prediction": "{\n\"description\": \"A teddy bear is sitting in a crib next to a baby monitor. The teddy bear is wearing a red ribbon. The crib is white and has a white sheet. The room is dark and the teddy bear is the only light source. The teddy bear is facing the camera.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00359.png",
+    "prediction": "{\n\"description\": \"A baby is crying in a crib. The crib has a moon and stars mobile hanging above the baby.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [\"crying\", \"crying loudly\"],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00321.png",
+    "prediction": "{\n\"description\": \"A baby is crying in a crib. The baby is wearing a blue bib and has a pacifier in its mouth.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00070.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a moon and stars mobile above them. The baby is laying on their back and has a pacifier in their mouth.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00283.png",
+    "prediction": "{\n\"description\": \"A baby crying in a crib\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00039.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib with a white sheet and a white blanket. The baby is laying on its stomach and is not crying.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00046.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib with a white bib on.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00225.png",
+    "prediction": "{\n\"description\": \"A baby is laying down in a crib with a stuffed animal and a yellow ring. The baby is facing down and appears to be sleeping.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00340.png",
+    "prediction": "{\n\"description\": \"A baby crying in a crib with a teddy bear beside it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00327.png",
+    "prediction": "{\n\"description\": \"A baby is crying in a crib with stuffed animals around it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [\"crying\", \"crying loudly\"],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00129.png",
+    "prediction": "{\n\"description\": \"A baby in a crib with a blue bib on.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00104.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a toy in front of him. He is wearing a blue and white outfit and is chewing on a toy.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00134.png",
+    "prediction": "{\n\"description\": \"A baby is sitting in a crib, smiling at the camera.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00248.png",
+    "prediction": "{\n\"description\": \"A baby crying in a crib\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00120.png",
+    "prediction": "{\n\"description\": \"A baby sleeping in a crib with a blue stuffed animal beside them.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 5,\n\"hazards\": [\"blue stuffed animal\"],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00152.png",
+    "prediction": "{\n\"description\": \"A baby is laying on its back in a crib with a red background. The baby is smiling and appears to be happy.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00378.png",
+    "prediction": "{\n\"description\": \"A baby crib with a blanket and a stuffed animal. The baby is not present in the crib.\",\n\"baby\\_present\": false,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00103.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib. The baby is laying on its back and appears to be in a safe position.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00465.png",
+    "prediction": "{\n\"description\": \"A baby is in a crib with two stuffed animals hanging from a mobile. The baby is laying down and appears to be sleeping.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00322.png",
+    "prediction": "{\n\"description\": \"A baby crying in a crib\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00326.png",
+    "prediction": "{\n\"description\": \"A baby lying on its stomach in a crib, crying.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 7,\n\"hazards\": [\"face down position\"],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00251.png",
+    "prediction": "{\n\"description\": \"A baby crying in a crib\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00203.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a pacifier in his mouth. He is looking up at the camera.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00275.png",
+    "prediction": "{\n\"description\": \"A baby crying in a crib\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00181.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a yellow and white striped shirt on.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00233.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib, smiling at the camera.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00375.png",
+    "prediction": "{\n\"description\": \"A baby crib with a mobile hanging over it. The crib is empty and the mobile is turned on.\",\n\"baby\\_present\": false,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00143.png",
+    "prediction": "{\n\"description\": \"A baby is sitting in a crib and smiling at the camera.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00029.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib with a teddy bear next to it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00138.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a teddy bear next to him.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00381.png",
+    "prediction": "{\n\"description\": \"A teddy bear is sitting on a white sheet in a crib. The crib is empty and the room is dark.\",\n\"baby\\_present\": false,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00404.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a white sheet on it. The crib is made of wicker and has a white sheet on it. The baby is laying on its back and is not facing up.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00325.png",
+    "prediction": "{\n\"description\": \"A baby is crying in a crib with a teddy bear next to it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00276.png",
+    "prediction": "{\n\"description\": \"A baby in a crib crying and looking sad.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00430.png",
+    "prediction": "{\n\"description\": \"A baby is in a crib with a yellow mattress. The baby is laying on its back and appears to be sleeping.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00132.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a white sheet and a mobile above them. The baby is smiling and appears to be happy.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00268.png",
+    "prediction": "{\n\"description\": \"A baby is crying in a crib with a star and a bunny toy. The baby is laying on its back and has a pacifier in its mouth.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [\"pacifier in mouth\"],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00329.png",
+    "prediction": "{\n\"description\": \"A baby is crying in a crib. The baby is laying on its back and is wearing a blue and white outfit. The baby is in a crib with a star light on the wall above it.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00099.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib with two stuffed animals beside him.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00184.png",
+    "prediction": "{\n\"description\": \"A baby sitting in a crib with a white star on the ceiling.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00173.png",
+    "prediction": "{\n\"description\": \"A baby sitting in a crib looking at the camera.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00089.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib with a star light on the wall above it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00475.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib. The crib is white and has a blue blanket on it. The baby is laying on its back.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00429.png",
+    "prediction": "{\n\"description\": \"A crib with a yellow teddy bear and a white blanket. The crib is empty and the light is on.\",\n\"baby\\_present\": false,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00467.png",
+    "prediction": "{\n\"description\": \"A baby crib with a mobile hanging from the ceiling. The crib is empty and the mobile is turned on.\",\n\"baby\\_present\": false,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00119.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib with a teddy bear next to him.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00175.png",
+    "prediction": "{\n\"description\": \"A baby lying in a crib with a star mobile hanging above it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00284.png",
+    "prediction": "{\n\"description\": \"A baby is crying in a crib. The baby is wearing a blue outfit and is standing up in the crib.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00468.png",
+    "prediction": "{\n\"description\": \"A baby crib with a star mobile and a light on. The crib is empty.\",\n\"baby\\_present\": false,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00451.png",
+    "prediction": "{\n\"description\": \"A teddy bear is sitting in a crib. The crib is white and has a green wall. The teddy bear is wearing a red ribbon.\",\n\"baby\\_present\": false,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00036.png",
+    "prediction": "{\n\"description\": \"A baby sleeping in a crib with a white wicker basket. The baby is wearing a blue outfit and has a pacifier in its mouth.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00222.png",
+    "prediction": "{\n\"description\": \"A baby lying in a crib with a monitor on the side.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00301.png",
+    "prediction": "{\n\"description\": \"A baby is crying in a crib with a stuffed animal and a yellow rubber duck. The baby is wrapped in a blanket and is laying on its stomach.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [\"crying\", \"face down\"],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00410.png",
+    "prediction": "{\n\"description\": \"A baby elephant and a stuffed elephant are in a crib. The baby elephant is laying on its stomach. The stuffed elephant is sitting next to the baby elephant.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00068.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib with a teddy bear next to it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00201.png",
+    "prediction": "{\n\"description\": \"A baby sitting in a crib with a white sheet and a brown wooden headboard. The baby is looking at the camera.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00086.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with stuffed animals around him.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00159.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a white sheet. The baby is looking up at the camera. There are two birds hanging from the crib. The baby is not in any immediate danger.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 3,\n\"hazards\": [\"Birds hanging from crib\"],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00056.png",
+    "prediction": "{\n\"description\": \"A baby sleeping in a crib.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00202.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a toy hanging above it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00052.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib with a toy hanging above it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00258.png",
+    "prediction": "{\n\"description\": \"A baby crying in a crib\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00392.png",
+    "prediction": "{\n\"description\": \"A baby's pink shirt is laying on a crib mattress. The crib is empty.\",\n\"baby\\_present\": false,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00026.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib with a white sheet and a white blanket. The crib is white and has a mobile hanging above the baby.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00139.png",
+    "prediction": "{\n\"description\": \"A baby sitting in a crib with a teddy bear next to him.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00081.png",
+    "prediction": "{\n\"description\": \"A baby sitting in a crib with a stuffed animal next to him.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00078.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib, smiling and looking at the camera.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00200.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a moon and stars on the wall above it. The baby is looking up at the camera.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00473.png",
+    "prediction": "{\n\"description\": \"A baby monitor shows a baby lying in a crib with a blanket over it. The baby is not crying and is not in any immediate danger.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00312.png",
+    "prediction": "{\n\"description\": \"A baby is crying in a crib with a teddy bear beside it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00093.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib with a blue blanket on it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00337.png",
+    "prediction": "{\n\"description\": \"A baby sitting in a crib crying\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00065.png",
+    "prediction": "{\n\"description\": \"A baby is laying down in a crib with a brown teddy bear next to him. The baby is laying on his stomach and appears to be sleeping.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00409.png",
+    "prediction": "{\n\"description\": \"A brown teddy bear is sitting in a crib. The crib is white and has a window. The bear is facing the window.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00366.png",
+    "prediction": "{\n\"description\": \"A crib with a stuffed animal and a starfish on the bed. The stuffed animal is a teddy bear. The crib is next to a window. The baby is not in the crib.\",\n\"baby\\_present\": false,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00309.png",
+    "prediction": "{\n\"description\": \"A baby is crying in a crib. The baby is wearing a diaper and has a pacifier in his mouth.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00057.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib with a white sheet and a white blanket. The baby is laying on its back and appears to be sleeping peacefully.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00235.png",
+    "prediction": "{\n\"description\": \"A baby is sitting in a crib with a white sheet and a white bib on.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00228.png",
+    "prediction": "{\n\"description\": \"A baby lying on its back in a crib, looking up at the camera.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00347.png",
+    "prediction": "{\n\"description\": \"A baby is crying in a crib. The baby is laying on its back and appears to be in a safe position.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00353.png",
+    "prediction": "{\n\"description\": \"A baby is crying in a crib with a toy basket above it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00179.png",
+    "prediction": "{\n\"description\": \"A baby lying in a crib with a couple of stuffed animals around it.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [\"little girl lying on her back\"],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00356.png",
+    "prediction": "{\n\"description\": \"A baby is crying in a crib. The baby is wearing a blue onesie and has a stuffed animal next to them.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00324.png",
+    "prediction": "{\n\"description\": \"A baby is crying in a crib with stuffed animals around it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [\"crying baby\"],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00421.png",
+    "prediction": "{\n\"description\": \"A crib with a white sheet and two stuffed animals on it. The crib is empty and the stuffed animals are on their stomachs.\",\n\"baby\\_present\": false,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00131.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a teddy bear next to him. He is smiling and appears to be happy.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00291.png",
+    "prediction": "{\n\"description\": \"A baby is crying in a crib. The baby is wearing a blue and white outfit and a white bib.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00282.png",
+    "prediction": "{\n\"description\": \"A baby is crying in a crib with a stuffed animal and a toy duck. The baby is laying on its stomach and appears to be upset.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 7,\n\"hazards\": [\"crying baby\"],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00041.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib with a blue and white blanket on it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00186.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib, smiling and looking at the camera.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00106.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib. The baby is laying on its stomach and appears to be sleeping.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00316.png",
+    "prediction": "{\n\"description\": \"A baby is crying in a crib. The crib is white and the baby is lying on its back.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [\"crying\", \"face down\"],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00333.png",
+    "prediction": "{\n\"description\": \"A baby crying in a crib with a stuffed animal and a light shining on it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [\"crying\", \"light shining on baby\"],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00071.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a teddy bear next to him. The baby is not crying and appears to be in a safe position.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00096.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib with a teddy bear next to it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00292.png",
+    "prediction": "{\n\"description\": \"A baby is crying in a crib with a white sheet and a wooden headboard. The baby is laying on its back and there are stars on the headboard.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00020.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib with a teddy bear next to him.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00352.png",
+    "prediction": "{\n\"description\": \"A baby is crying in a crib with a teddy bear beside it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00207.png",
+    "prediction": "{\n\"description\": \"A baby is laying down in a crib with a mobile above it.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00457.png",
+    "prediction": "{\n\"description\": \"A crib with a baby monitor attached to the top. The monitor is turned on and is displaying the baby's room.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00058.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib with a stuffed animal beside it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00308.png",
+    "prediction": "{\n\"description\": \"A baby crying in a crib with a stuffed animal and a light shining over it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [\"crying\", \"light shining over crib\"],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00307.png",
+    "prediction": "{\n\"description\": \"A baby is crying in a crib. The baby is laying on its back and has a red face. There is a stuffed animal in the crib with the baby.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [\"crying\", \"face down\"],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00002.png",
+    "prediction": "{\n\"description\": \"A baby sleeping in a crib with a yellow and blue blanket and a stuffed animal on the bed beside him.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 5,\n\"hazards\": [\"Baby sleeping on stomach\"],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00102.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib with a teddy bear next to it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00011.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a blue and white blanket on it. The baby is wearing a blue and white bib and is facing up.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00452.png",
+    "prediction": "{\n\"description\": \"A crib with a blanket and a stuffed animal in it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00008.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib with a mobile above it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00051.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib. The baby is laying on its back and appears to be safe.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00345.png",
+    "prediction": "{\n\"description\": \"A baby crying in a crib.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00396.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib. The crib is white and has a yellow blanket on it. The baby is laying on its back.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00121.png",
+    "prediction": "{\n\"description\": \"A baby sitting in a crib with a smile on his face.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00157.png",
+    "prediction": "{\n\"description\": \"A baby sitting in a crib with a toy hanging above him.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00387.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a pink background. The baby is looking up at the camera.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00450.png",
+    "prediction": "{\n\"description\": \"A baby crib with a white crib mattress and a baby monitor attached to the top of the crib. The crib is empty and the baby monitor is not on.\",\n\"baby\\_present\": false,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00060.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a green and white blanket. The baby is laying on its stomach and is chewing on a pacifier.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00079.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a brown teddy bear next to him. He is smiling and looking at the camera.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00028.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib with a wicker basket. The baby is laying on its back and appears to be in a safe position.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00128.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib, looking at the camera.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00136.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a wicker basket. The baby is facing down and appears to be sleeping.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00391.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib with a blue blanket on it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00288.png",
+    "prediction": "{\n\"description\": \"A baby crying in a crib\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00300.png",
+    "prediction": "{\n\"description\": \"A baby is crying in a crib. The crib is next to a wall with a star on it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [\"crying\", \"crying loudly\"],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00040.png",
+    "prediction": "{\n\"description\": \"A baby laying in a crib with a star on the wall above them.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00428.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a blanket on it. The baby is not facing up and is not crying.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00247.png",
+    "prediction": "{\n\"description\": \"A baby sitting in a crib and crying. There are two teddy bears hanging above the baby.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [\"crying\", \"crying baby\"],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00369.png",
+    "prediction": "{\n\"description\": \"A crib with a white sheet and a toy monkey on it. A baby monitor is also present.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00047.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib with a white sheet and a blue blanket. The baby is lying on its back and appears to be safe.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00149.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a pacifier in its mouth.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00310.png",
+    "prediction": "{\n\"description\": \"A baby sitting in a crib crying. The crib has a mobile and a star decoration. The baby is wearing a blue and white outfit.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00374.png",
+    "prediction": "{\n\"description\": \"A baby crib with a white sheet and a stuffed animal in it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00074.png",
+    "prediction": "{\n\"description\": \"A baby is sleeping in a crib with a wicker mattress. The baby is laying on its back and appears to be in a safe position.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00022.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a white sheet. The baby is facing down and appears to be sleeping.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": true,\n\"severity\": 3,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00435.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib with a teddy bear and a yellow and blue toy. The baby is laying on its back and is not crying or sleeping.\",\n\"baby\\_present\": true,\n\"face\\_down\": true,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 3,\n\"hazards\": [\"Baby laying on its back\"],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00399.png",
+    "prediction": "{\n\"description\": \"A baby crib with a star mobile hanging from the top. The crib is empty and the sun is shining through the window. The room is blue and has a chair and a rocking horse in the corner.\",\n\"baby\\_present\": false,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00208.png",
+    "prediction": "{\n\"description\": \"A baby is smiling and laying in a crib. The baby is wearing a blue onesie and is laying on its back.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00125.png",
+    "prediction": "{\n\"description\": \"A baby in a crib smiling at the camera\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00174.png",
+    "prediction": "{\n\"description\": \"A baby is laying in a crib, looking up at the camera.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": false,\n\"sleeping\": false,\n\"severity\": 0,\n\"hazards\": [],\n\"notify\": false\n}"
+  },
+  {
+    "filename": "synth_00286.png",
+    "prediction": "{\n\"description\": \"A baby sitting in a crib crying\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00351.png",
+    "prediction": "{\n\"description\": \"A baby is crying in a crib with a teddy bear next to him.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00281.png",
+    "prediction": "{\n\"description\": \"A baby sitting in a crib crying\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [],\n\"notify\": true\n}"
+  },
+  {
+    "filename": "synth_00306.png",
+    "prediction": "{\n\"description\": \"A baby crying in a crib with stuffed animals around it.\",\n\"baby\\_present\": true,\n\"face\\_down\": false,\n\"crying\": true,\n\"sleeping\": false,\n\"severity\": 5,\n\"hazards\": [\"crying\", \"crying baby\"],\n\"notify\": true\n}"
+  }
+]
