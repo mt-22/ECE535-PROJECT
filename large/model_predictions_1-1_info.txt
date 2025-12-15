@@ -1,61 +1,69 @@
-Comparing model predictions against ground truth...
-Ground truth file: large/large.json
-Predictions file: large/model_predictions_1-1.json
-Found 480 matching entries out of 480 in large.json and 480 in predictions
+Loading ground truth from: large/large.json
+Loading predictions from: large/model_predictions_1-1.json
+
+Found 480 matching entries (Ground Truth: 480, Predictions: 480).
 
 ============================================================
-COMPARISON SUMMARY
+DETAILED COMPARISON REPORT
 ============================================================
 
-Baby Present Detection:
-  Correct: 406/480 (84.58%)
+--- BABY PRESENT ---
+  Accuracy:  84.58% (406/480)
+  Precision: 82.95%
+  Recall:    100.00%
+  F1 Score:  0.91
+  Confusion Matrix: [TP=360, TN=46, FP=74, FN=0]
+  Top 5 Errors: ['synth_00361.png: Expected False, Got True', 'synth_00362.png: Expected False, Got True', 'synth_00363.png: Expected False, Got True', 'synth_00368.png: Expected False, Got True', 'synth_00369.png: Expected False, Got True']
+  ... and 69 more.
 
-Crying Detection:
-  Correct: 477/480 (99.38%)
+--- FACE DOWN ---
+  Accuracy:  78.75% (378/480)
+  Precision: 7.62%
+  Recall:    61.54%
+  F1 Score:  0.14
+  Confusion Matrix: [TP=8, TN=370, FP=97, FN=5]
+  Top 5 Errors: ['synth_00001.png: Expected False, Got True', 'synth_00002.png: Expected False, Got True', 'synth_00004.png: Expected False, Got True', 'synth_00005.png: Expected False, Got True', 'synth_00006.png: Expected False, Got True']
+  ... and 97 more.
 
-Sleeping Detection:
-  Correct: 404/480 (84.17%)
+--- CRYING ---
+  Accuracy:  99.58% (478/480)
+  Precision: 98.37%
+  Recall:    100.00%
+  F1 Score:  0.99
+  Confusion Matrix: [TP=121, TN=357, FP=2, FN=0]
+  Top 5 Errors: ['synth_00031.png: Expected False, Got True', 'synth_00240.png: Expected False, Got True']
 
-Severity Statistics:
-  Average predicted severity: 2.32
-  Standard deviation: 2.28
-  Quartiles: Q1=0.00, Median=3.00, Q3=5.00
-  Range: 0.00 - 8.00
+--- SLEEPING ---
+  Accuracy:  84.38% (405/480)
+  Precision: 65.71%
+  Recall:    77.31%
+  F1 Score:  0.71
+  Confusion Matrix: [TP=92, TN=313, FP=48, FN=27]
+  Top 5 Errors: ['synth_00010.png: Expected True, Got False', 'synth_00011.png: Expected True, Got False', 'synth_00018.png: Expected True, Got False', 'synth_00025.png: Expected True, Got False', 'synth_00027.png: Expected True, Got False']
+  ... and 70 more.
 
-Hazard Detection:
-  Total hazards detected: 71
-  Images with hazards: 46
+--- NOTIFY ---
+  Accuracy:  96.88% (465/480)
+  Precision: 95.20%
+  Recall:    92.97%
+  F1 Score:  0.94
+  Confusion Matrix: [TP=119, TN=346, FP=6, FN=9]
+  Top 5 Errors: ['synth_00002.png: Expected False, Got True', 'synth_00011.png: Expected True, Got False', 'synth_00017.png: Expected True, Got False', 'synth_00031.png: Expected False, Got True', 'synth_00039.png: Expected True, Got False']
+  ... and 10 more.
 
-Baby Present Error Analysis:
-  Missed actual babies (false negatives): 0/74 (0.00%)
-  False alarms (no baby detected as present) (false positives): 74/74 (100.00%)
+--- SEVERITY ---
+  Mean Absolute Error (MAE): 1.4167
+  Mean Squared Error (MSE):  4.6917
+  Prediction Bias (Mean Diff): 0.5917 (Positive means over-predicting)
+  Total Mismatches: 262
+  Top 5 Errors: ['synth_00002.png: Expected 0.0, Got 5.0', 'synth_00003.png: Expected 0.0, Got 5.0', 'synth_00004.png: Expected 0.0, Got 3.0', 'synth_00005.png: Expected 1.0, Got 3.0', 'synth_00006.png: Expected 0.0, Got 3.0']
 
-Incorrect Baby Present Predictions (showing first 5):
-  synth_00419: Expected No Baby, Got Baby Present
-  synth_00440: Expected No Baby, Got Baby Present
-  synth_00457: Expected No Baby, Got Baby Present
-  synth_00420: Expected No Baby, Got Baby Present
-  synth_00455: Expected No Baby, Got Baby Present
+--- HAZARDS ---
+  Exact Matches:   422 (87.92%)
+  Partial Matches: 0 (0.00%)
+  No Matches:      58 (12.08%)
+  Top 5 Mismatches: ["synth_00002.png: Mismatch. Exp set(), Got {'baby sleeping on stomach'}", "synth_00005.png: Mismatch. Exp {'tight swaddle'}, Got set()", "synth_00011.png: Mismatch. Exp {'bib around neck'}, Got set()", "synth_00019.png: Mismatch. Exp {'tight swaddle'}, Got set()", "synth_00031.png: Mismatch. Exp set(), Got {'object not in crib'}"]
 
-Crying Error Analysis:
-  Missed actual crying (false negatives): 0/3 (0.00%)
-  False alarms - peaceful/quiet detected as crying (false positives): 3/3 (100.00%)
-
-Incorrect Crying Predictions (showing first 5):
-  synth_00031: Expected Not Crying, Got Crying
-  synth_00240: Expected Not Crying, Got Crying
-  synth_00088: Expected Not Crying, Got Crying
-
-Sleeping Error Analysis:
-  Missed actual sleeping (false negatives): 28/76 (36.84%)
-  False alarms - awake detected as sleeping (false positives): 48/76 (63.16%)
-
-Incorrect Sleeping Predictions (showing first 5):
-  synth_00027: Expected Sleeping, Got Awake
-  synth_00419: Expected Awake, Got Sleeping
-  synth_00225: Expected Awake, Got Sleeping
-  synth_00440: Expected Awake, Got Sleeping
-  synth_00420: Expected Awake, Got Sleeping
-
-Detailed analysis complete. Processed 480 matching entries.
-Results saved to comparison_results.json
+============================================================
+END OF REPORT
+============================================================
