@@ -1,0 +1,68 @@
+Loading ground truth from: large/large.json
+Loading predictions from: large/model_predictions_QWEN_1-1.json
+
+Found 480 matching entries (Ground Truth: 480, Predictions: 480).
+
+============================================================
+DETAILED COMPARISON REPORT
+============================================================
+
+--- BABY PRESENT ---
+  Accuracy:  98.96% (475/480)
+  Precision: 99.44%
+  Recall:    99.17%
+  F1 Score:  0.99
+  Confusion Matrix: [TP=357, TN=118, FP=2, FN=3]
+  Top 5 Errors: ['synth_00055.png: Expected True, Got False', 'synth_00308.png: Expected True, Got False', 'synth_00336.png: Expected True, Got False', 'synth_00387.png: Expected False, Got True', 'synth_00438.png: Expected False, Got True']
+
+--- FACE DOWN ---
+  Accuracy:  97.08% (466/480)
+  Precision: 0.00%
+  Recall:    0.00%
+  F1 Score:  0.00
+  Confusion Matrix: [TP=0, TN=466, FP=1, FN=13]
+  Top 5 Errors: ['synth_00017.png: Expected True, Got False', 'synth_00021.png: Expected True, Got False', 'synth_00037.png: Expected True, Got False', 'synth_00039.png: Expected True, Got False', 'synth_00045.png: Expected True, Got False']
+  ... and 9 more.
+
+--- CRYING ---
+  Accuracy:  99.17% (476/480)
+  Precision: 99.16%
+  Recall:    97.52%
+  F1 Score:  0.98
+  Confusion Matrix: [TP=118, TN=358, FP=1, FN=3]
+  Top 5 Errors: ['synth_00240.png: Expected False, Got True', 'synth_00279.png: Expected True, Got False', 'synth_00317.png: Expected True, Got False', 'synth_00360.png: Expected True, Got False']
+
+--- SLEEPING ---
+  Accuracy:  95.62% (459/480)
+  Precision: 92.98%
+  Recall:    89.08%
+  F1 Score:  0.91
+  Confusion Matrix: [TP=106, TN=353, FP=8, FN=13]
+  Top 5 Errors: ['synth_00010.png: Expected True, Got False', 'synth_00011.png: Expected True, Got False', 'synth_00054.png: Expected True, Got False', 'synth_00055.png: Expected True, Got False', 'synth_00059.png: Expected True, Got False']
+  ... and 16 more.
+
+--- NOTIFY ---
+  Accuracy:  96.46% (463/480)
+  Precision: 99.12%
+  Recall:    87.50%
+  F1 Score:  0.93
+  Confusion Matrix: [TP=112, TN=351, FP=1, FN=16]
+  Top 5 Errors: ['synth_00011.png: Expected True, Got False', 'synth_00017.png: Expected True, Got False', 'synth_00039.png: Expected True, Got False', 'synth_00045.png: Expected True, Got False', 'synth_00056.png: Expected True, Got False']
+  ... and 12 more.
+
+--- SEVERITY ---
+  Mean Absolute Error (MAE): 0.5792
+  Mean Squared Error (MSE):  1.4167
+  Prediction Bias (Mean Diff): 0.0042 (Positive means over-predicting)
+  Total Mismatches: 175
+  Top 5 Errors: ['synth_00004.png: Expected 0.0, Got 1.0', 'synth_00005.png: Expected 1.0, Got 0.0', 'synth_00006.png: Expected 0.0, Got 1.0', 'synth_00008.png: Expected 0.0, Got 1.0', 'synth_00010.png: Expected 0.0, Got 1.0']
+
+--- HAZARDS ---
+  Exact Matches:   460 (95.83%)
+  Partial Matches: 0 (0.00%)
+  No Matches:      20 (4.17%)
+  Top 5 Mismatches: ["synth_00005.png: Mismatch. Exp {'tight swaddle'}, Got set()", "synth_00011.png: Mismatch. Exp {'bib around neck'}, Got set()", "synth_00019.png: Mismatch. Exp {'tight swaddle'}, Got set()", "synth_00039.png: Mismatch. Exp {'tight swaddle'}, Got set()", "synth_00045.png: Mismatch. Exp {'tall platform without sufficient walls'}, Got set()"]
+
+============================================================
+END OF REPORT
+============================================================
